@@ -1,3 +1,5 @@
 TS/node_modules
 TS/package-lock.json
+TS/.DS_Store
 .idea
+.DS_Store
