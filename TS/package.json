@@ -5,6 +5,7 @@
   "scripts": {
     "test": "jest"
   },
+  "type": "commonjs",
   "private": true,
   "devDependencies": {
     "@babel/core": "^7.25.2",
