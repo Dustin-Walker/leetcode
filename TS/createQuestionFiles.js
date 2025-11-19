@@ -23,7 +23,7 @@ fs.writeFileSync(
   filePath,
   `function ${s}() {};
   
-  export default ${s};
+export default ${s};
 `,
 );
 console.log(`Created: ${filePath}`);
